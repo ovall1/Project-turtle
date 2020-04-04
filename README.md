@@ -13,4 +13,4 @@ The project will have, as seen in the repository the following structure:
 We will ask you to preserve this structure when forking and commiting the project.
 
 ## Project config
-The music file we will be creating is going to have a **time signature of 4/4** and a **tempo of 90**. So make sure you set those in place when recording new tracks for it.
+The music file we will be creating is going to have a **time signature of 4/4** and a **tempo of 90**. So make sure you set those in place when recording new tracks for it. For now is going to be 24 compasses long, we can consider expanding it time-wise if we need more 'space' in the future.
