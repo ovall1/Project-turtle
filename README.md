@@ -6,7 +6,11 @@ The aim is to start a music project in which every new commit is a new track on 
 
 ## How to collaborate
 The project will have, as seen in the repository the following structure:
-**turtle-song.mp3** (the latest song file which are all the previous tracks merged)
-**Tracks** (A folder with all the simple tracks added into the master turtler-song.mp3 saved as different files.
+
+* **turtle-song.mp3** (the latest song file which are all the previous tracks merged)
+* **Tracks** (A folder with all the simple tracks added into the master turtler-song.mp3 saved as different files.
 
 We will ask you to preserve this structure when forking and commiting the project.
+
+## Project config
+The music file we will be creating is going to have a **time signature of 4/4** and a **tempo of 90**. So make sure you set those in place when recording new tracks for it.
