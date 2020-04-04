@@ -8,8 +8,8 @@ We start with a music file/composition and then record tracks on top, so every n
 ## How to collaborate
 The project will have, as seen in the repository, the following structure:
 
-* **00_master-turtle.mp3** The latest song file which are all the previous tracks merged. Where "00" is going to be the version of the file. 
-* **Tracks** A folder with all the single tracks merged into the master-turtle.mp3 saved as different files (and named as "00_name-of-track.mp3" and where 00 is the number of track within the whole project, so if last one was 03, yours will be 04).
+* **"00_master-turtle.mp3":** The latest song file which are all the previous tracks merged. Where "00" is going to be the version of the file. 
+* **"Tracks":** A folder with all the single tracks merged into the master-turtle.mp3 saved as different files (and named as **"00_name-of-track.mp3"** and where 00 is the number of track within the whole project, so if last one was 03, yours will be 04).
 
 We will ask you to preserve this structure when forking and commiting the project.
 
